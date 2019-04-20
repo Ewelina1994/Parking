@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Oplata
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=lp\ pojazd\ czas_wjazdu\ nrMiejsca\ oplataZaGodz
+comment2.target=Oplata(long,\ Pojazd,\ Czas,\ int,\ double)
+comment3.params=czas_pocz\ czas_konc
+comment3.target=int\ liczbaJednostekCzasu(Czas,\ Czas)
+comment4.params=
+comment4.target=long\ dajLp()
+comment5.params=
+comment5.target=Pojazd\ dajPojazd()
+comment6.params=czas
+comment6.target=void\ wyliczKwote(Czas)
+comment7.params=opl
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Statystyka
+comment1.params=odDnia\ doDnia
+comment1.target=void\ dajSumeOplat(Data,\ Data)
+comment2.params=nrRej\ odDnia\ doDnia
+comment2.target=void\ dajSumeOplatPojazdu(java.lang.String,\ Data,\ Data)
+numComments=3

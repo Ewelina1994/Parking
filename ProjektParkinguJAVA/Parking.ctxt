@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Parking
+comment1.params=
+comment1.target=Parking()
+comment10.params=
+comment10.target=Parking.Miejsce\ dajWolneMiejsce()
+comment2.params=cennik
+comment2.target=Parking(Cennik)
+comment3.params=odDnia\ doDnia
+comment3.target=void\ dajSumeOplat(Data,\ Data)
+comment4.params=nrRej\ odDnia\ doDnia
+comment4.target=void\ dajSumeOplatPojazdu(java.lang.String,\ Data,\ Data)
+comment5.params=
+comment5.target=void\ wyswietlStanParkingu()
+comment6.params=
+comment6.target=boolean\ wolny()
+comment7.params=pojazd
+comment7.target=long\ wjazd(Pojazd)
+comment8.params=lp
+comment8.target=void\ wyjazd(long)
+comment9.params=lp
+comment9.target=Pojazd\ dajPojazd(long)
+numComments=11

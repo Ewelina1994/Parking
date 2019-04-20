@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pojazd
+comment1.params=nrRej\ typ
+comment1.target=Pojazd(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ dajTyp()
+comment3.params=
+comment3.target=java.lang.String\ dajNrRej()
+numComments=4
